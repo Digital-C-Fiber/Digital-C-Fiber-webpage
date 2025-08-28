@@ -1,5 +1,9 @@
-# Work under construction, more content is coming soon
 
+---
+title: Digital-C-Fiber-webpage
+---
+
+# Work under construction, more content is coming soon
 # Research direction 1: Computational modelling of activity-dependent speed propagation changes in C-fibers
 ## Decoding Neuropathic Pain: Can We Predict Fluctuations of Propagation Speed in Stimulated Peripheral Nerve?
 File: [Link](https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2022.899584/full)
