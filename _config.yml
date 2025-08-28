@@ -1,5 +1,5 @@
-title: My Awesome Site
-description: My first Jekyll page
+title: Digital C-fiber Webpage
+description: Overview of the team work
 baseurl: ""                # leave empty for user/organization site
 url: "https://digital-c-fiber.github.io/Digital-C-Fiber-webpage/"  # replace with your GitHub username
 theme: minima
